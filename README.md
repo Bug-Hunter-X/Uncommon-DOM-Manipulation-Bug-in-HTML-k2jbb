@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to DOM manipulation in HTML. The bug occurs when JavaScript code attempts to access and modify elements of the HTML Document Object Model (DOM) before the browser has finished parsing and rendering the HTML. This can lead to unexpected behavior or errors.
